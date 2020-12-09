@@ -7,3 +7,4 @@ g++ clshisb.cpp -o clshisb
 
 And if you want to use it often do this:
 sudo mv clshisb /bin
+chmod +x /bin/clshisb
